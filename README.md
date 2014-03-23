@@ -5,9 +5,9 @@ Version 0.1
 
 Raspberry PI functions for use with MCP23017
 
-This library was ported from the original Arduino library wich can be found here: https://github.com/kasperskaarhoj/MCP23017-Arduino-Library.
+This library was ported from the Arduino library wich can be found here: https://github.com/kasperskaarhoj/MCP23017-Arduino-Library.
 
-To achieve this, BCM2835 library must be installed and can be found here: http://www.open.com.au/mikem/bcm2835/index.html.
+To achieve this, BCM2835 library must be installed in Raspberry PI and can be found here: http://www.open.com.au/mikem/bcm2835/index.html.
 Simply follow the instalation steppes.
 
 The MCP23017 datasheet can be found in: http://ww1.microchip.com/downloads/en/devicedoc/21952b.pdf.
